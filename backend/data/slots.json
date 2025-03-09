@@ -1,0 +1,24 @@
+[
+  {
+    "id": "7e3cf9a5-ceae-4eba-87cd-24cb5d0b437b",
+    "location": "Ground Floor P2",
+    "capacity": 15,
+    "isEVCompatible": false,
+    "isAvailable": true,
+    "bookedBy": null,
+    "createdAt": "2025-03-02T19:49:58.595Z",
+    "updatedAt": "2025-03-02T19:49:58.595Z"
+  },
+  {
+    "id": "SLOT-EB2227",
+    "parkingId": "PARK-123",
+    "floorNumber": 2,
+    "section": "A",
+    "isOccupied": false,
+    "bookedBy": null,
+    "bookedByName": null,
+    "vehicleNumber": null,
+    "createdAt": "2025-03-02T19:57:01.604Z",
+    "status": "available"
+  }
+]

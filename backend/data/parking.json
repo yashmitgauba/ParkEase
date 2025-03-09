@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1740938956341",
+    "name": "Basement Level 2",
+    "location": "Sector 22, Chandigarh",
+    "totalSpots": 100,
+    "availableSpots": 99,
+    "pricePerHour": 50,
+    "createdAt": "2025-03-02T18:09:16.341Z",
+    "status": "active"
+  }
+]
